@@ -1,6 +1,6 @@
 # LV 1 zadatak - Osobna stranica
 
-### LINK: 
+### LINK: https://lukacvetkovic18.github.io/web_lv1/
 
 <hr />
 
